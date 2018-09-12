@@ -2,21 +2,36 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa17a747-52b7-4061-acd8-b53deb86c00c" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Request.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Request.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/RequestHandlerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/RequestHandlerImpl.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Secretariat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Secretariat.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/University.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/University.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/DecanProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/DecanProfesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/RectorProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/RectorProfesor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Profesor.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -29,11 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InscriereStudentCommand.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="InscriereStudentCommand.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+            <state relative-caret-position="73">
+              <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,69 +59,8 @@
       <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-294">
-              <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InformatiiDespreStudentCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#368#369#0" expanded="true" />
-                <element signature="e#464#465#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Profesor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="University.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#407#408#0" expanded="true" />
-                <element signature="e#440#441#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="InregistrareCerereCommand.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ProfesorProfesor.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+            <state relative-caret-position="64">
+              <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -117,8 +71,20 @@
       <file leaf-file-name="Request.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+            <state relative-caret-position="60">
+              <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InformatiiDespreStudentCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -129,8 +95,8 @@
       <file leaf-file-name="Secretariat.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+            <state relative-caret-position="299">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -138,15 +104,22 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Student.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java">
+      <file leaf-file-name="RequestHandlerImpl.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+            <state relative-caret-position="42">
+              <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="60" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="InregistrareCerereCommand.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#303#304#0" expanded="true" />
-                <element signature="e#342#343#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -173,8 +146,6 @@
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ProfessorType.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Main.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Scanner.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ConsoleRead.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Cerere.java" />
@@ -186,22 +157,25 @@
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproverImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Profesor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ApprovalResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/Profesor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/Profesor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" />
         <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" />
       </list>
     </option>
   </component>
@@ -410,12 +384,12 @@
       <option name="presentableId" value="Default" />
       <updated>1536734055159</updated>
       <workItem from="1536734069921" duration="6804000" />
-      <workItem from="1536741117609" duration="3212000" />
+      <workItem from="1536741117609" duration="7998000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10016000" />
+    <option name="totallyTimeSpent" value="14802000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="6" />
@@ -431,11 +405,11 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3296355" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.57052296" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.3296355" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info id="Learn" order="2" />
@@ -493,14 +467,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java</url>
-          <line>19</line>
-          <properties />
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
       <option name="time" value="4" />
     </breakpoint-manager>
   </component>
@@ -535,8 +501,6 @@
           <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -585,33 +549,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ConsoleRead.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproverImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="75">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
           <folding>
-            <element signature="e#213#214#0" expanded="true" />
-            <element signature="e#237#238#0" expanded="true" />
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ConsoleRead.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-          <folding>
-            <element signature="e#219#220#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/RequestStatus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -622,21 +575,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/RequestStatus.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproverImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="20" />
-          <folding>
-            <element signature="e#172#173#0" expanded="true" />
-            <element signature="e#199#200#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="60">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -650,117 +592,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
-          <folding>
-            <element signature="e#301#302#0" expanded="true" />
-            <element signature="e#340#341#0" expanded="true" />
-            <element signature="e#651#652#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        <state relative-caret-position="135">
+          <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#327#328#0" expanded="true" />
-            <element signature="e#354#355#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-            <element signature="e#351#352#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#352#353#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-294">
-          <caret line="14" column="61" selection-start-line="14" selection-start-column="61" selection-end-line="14" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="13" column="91" selection-start-line="13" selection-start-column="91" selection-end-line="13" selection-end-column="91" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#368#369#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#303#304#0" expanded="true" />
-            <element signature="e#342#343#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
         </state>
       </provider>
     </entry>
@@ -774,30 +622,66 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="165">
+          <caret line="11" column="40" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="55" selection-start-line="12" selection-start-column="55" selection-end-line="12" selection-end-column="55" />
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#302#303#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="19" column="43" lean-forward="true" selection-start-line="19" selection-start-column="43" selection-end-line="19" selection-end-column="43" />
+        <state relative-caret-position="256">
+          <caret line="25" column="55" selection-start-line="25" selection-start-column="55" selection-end-line="25" selection-end-column="55" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-361">
+          <caret line="24" column="27" selection-start-line="24" selection-start-column="27" selection-end-line="24" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -806,12 +690,86 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        <state relative-caret-position="74">
+          <caret line="31" column="44" lean-forward="true" selection-start-line="31" selection-start-column="44" selection-end-line="31" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#407#408#0" expanded="true" />
-            <element signature="e#440#441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#303#304#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="54" column="10" selection-start-line="54" selection-start-column="10" selection-end-line="54" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="75" selection-start-line="15" selection-start-column="75" selection-end-line="15" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="21" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="122" lean-forward="true" selection-start-line="5" selection-start-column="122" selection-end-line="5" selection-end-column="122" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="23" column="60" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="23" column="43" lean-forward="true" selection-start-line="23" selection-start-column="43" selection-end-line="23" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>

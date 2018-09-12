@@ -52,7 +52,7 @@ public class Console {
         System.out.println();
     }
 
-    private static void printConsoleCarrige() {
+    public static void printConsoleCarrige() {
         System.out.print("> ");
     }
 

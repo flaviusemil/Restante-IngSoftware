@@ -3,6 +3,7 @@ package ro.emanuel.simulare.universitate;
 import ro.emanuel.simulare.universitate.utils.Profesor;
 
 import static ro.emanuel.simulare.universitate.utils.RequestStatus.NOT_COMPLETED;
+import static ro.emanuel.simulare.universitate.utils.Strings.APPROVAL_ERROR;
 
 public class RequestHandlerImpl implements RequestHandler {
 
@@ -20,7 +21,7 @@ public class RequestHandlerImpl implements RequestHandler {
 
         if (response.getStatus().equals(NOT_COMPLETED)) {
             if (next != null)
-                return new ApprovalResponse("Cererea nu a putut fi procesata.");
+                return new ApprovalResponse(APPROVAL_ERROR);
 
             return next.approve(request);
         }
