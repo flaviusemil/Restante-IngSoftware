@@ -1,50 +1,43 @@
 package ro.emanuel.simulare.universitate.commands;
 
-import ro.emanuel.simulare.universitate.Console;
 import ro.emanuel.simulare.universitate.ConsoleCommand;
+import ro.emanuel.simulare.universitate.Secretariat;
 import ro.emanuel.simulare.universitate.Student;
-import ro.emanuel.simulare.universitate.University;
 
-import java.util.List;
 import java.util.Scanner;
 
-import static ro.emanuel.simulare.universitate.utils.Strings.ADD_STUDENT_ERROR;
+import static ro.emanuel.simulare.universitate.utils.Strings.*;
 
 public class InscriereStudentCommand extends ConsoleCommand {
 
     private static final Scanner in = new Scanner(System.in);
-    private static final University university = University.getInstance();
+    private static final Secretariat SECRETARIAT = Secretariat.getInstance();
 
     public InscriereStudentCommand() {
         name = "Inscriere Student";
     }
 
     public void execute() {
-        System.out.println("Enter your student name: ");
         System.out.print("Nume student: ");
         String name = in.nextLine();
+
         System.out.println("Specializarea:");
-        printSpecializari(university.getSpecializari());
-        Console.printConsoleCarrige();
+        printStringList(SECRETARIAT.getSpecializari());
+
+        printConsoleCarrige();
         String specializare = getSpecializareById(in.nextInt());
+        in.nextLine();
 
         if (specializare != null) {
-            university.getSecretariat().getStudents().add(new Student(name, specializare));
+            SECRETARIAT.getStudents().add(new Student(name, specializare));
             System.out.println("Added new student with name: " + name + "\n");
         } else System.out.println(ADD_STUDENT_ERROR + "\n");
     }
 
-    private void printSpecializari(List<String> specializari) {
-        specializari.forEach(specializare -> {
-            int index = university.getSpecializari().indexOf(specializare);
-            System.out.println((index + 1) + ". " + specializare);
-        });
-    }
-
     private String getSpecializareById(int id) {
-        if (id == 0 || id > university.getSpecializari().size())
+        if (id <= 0 || id > SECRETARIAT.getSpecializari().size())
             return null;
 
-        return university.getSpecializari().get(id - 1);
+        return SECRETARIAT.getSpecializari().get(id - 1);
     }
 }

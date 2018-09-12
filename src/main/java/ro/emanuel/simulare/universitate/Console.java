@@ -8,6 +8,8 @@ import java.util.Optional;
 import java.util.Scanner;
 
 import static java.util.Optional.empty;
+import static ro.emanuel.simulare.universitate.utils.Strings.formatCommandNumber;
+import static ro.emanuel.simulare.universitate.utils.Strings.printConsoleCarrige;
 
 public class Console {
 
@@ -25,6 +27,7 @@ public class Console {
             printWelcomeMessage();
             printConsoleCarrige();
             command = getCommand(in.nextInt());
+            in.nextLine();
             command.ifPresent(ConsoleCommand::execute);
         } while (command.isPresent());
     }
@@ -45,15 +48,11 @@ public class Console {
     }
 
     static void printWelcomeMessage() {
-        System.out.println("Welcome to Emanuel University Portal!");
+        System.out.println("Welcome to Emanuel Secretariat Portal!");
         System.out.println("Please select your desired operation from the list below:\n");
         printOptions();
         System.out.println("Note: to exit the app, insert any other number.");
         System.out.println();
-    }
-
-    public static void printConsoleCarrige() {
-        System.out.print("> ");
     }
 
     private static void printOptions() {
@@ -61,9 +60,5 @@ public class Console {
             int index = commands.indexOf(command);
             System.out.println(formatCommandNumber(index) + command.name);
         });
-    }
-
-    private static String formatCommandNumber(int n) {
-        return (n + 1) + ". ";
     }
 }

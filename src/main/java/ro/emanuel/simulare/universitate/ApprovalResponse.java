@@ -8,11 +8,15 @@ import ro.emanuel.simulare.universitate.utils.RequestStatus;
 @Setter
 public class ApprovalResponse {
 
+    private RequestStatus status;
+    private String message;
+
     public ApprovalResponse(String message) {
         this.setStatus(RequestStatus.COMPLETED);
         this.setMessage(message);
     }
 
-    private RequestStatus status;
-    private String message;
+    public ApprovalResponse(RequestStatus status) {
+        this.setStatus(status);
+    }
 }

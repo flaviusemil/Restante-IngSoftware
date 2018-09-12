@@ -20,7 +20,7 @@ public class RequestHandlerImpl implements RequestHandler {
         ApprovalResponse response = this.approver.approve(request);
 
         if (response.getStatus().equals(NOT_COMPLETED)) {
-            if (next != null)
+            if (next == null)
                 return new ApprovalResponse(APPROVAL_ERROR);
 
             return next.approve(request);

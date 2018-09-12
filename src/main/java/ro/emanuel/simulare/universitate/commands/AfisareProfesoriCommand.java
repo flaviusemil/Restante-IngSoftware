@@ -1,9 +1,10 @@
 package ro.emanuel.simulare.universitate.commands;
 
 import ro.emanuel.simulare.universitate.ConsoleCommand;
-import ro.emanuel.simulare.universitate.University;
+import ro.emanuel.simulare.universitate.Secretariat;
 import ro.emanuel.simulare.universitate.utils.Profesor;
 import ro.emanuel.simulare.universitate.utils.ProfessorType;
+
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -12,14 +13,14 @@ public class AfisareProfesoriCommand extends ConsoleCommand {
     public AfisareProfesoriCommand() {
         name = "Afisare profesori";
     }
-    private University university = University.getInstance();
+    private static final Secretariat SECRETARIAT = Secretariat.getInstance();
 
     @Override
     public void execute() {
-        System.out.println("Lista profesorilor de la " + university.getName());
+        System.out.println("Lista profesorilor de la " + SECRETARIAT.getName());
         listRectors();
         listDecans();
-        listProfesors();
+        listProfessors();
         listAssistents();
 
         System.out.println();
@@ -37,20 +38,20 @@ public class AfisareProfesoriCommand extends ConsoleCommand {
         decans.forEach(decan -> System.out.println("\t" + decan));
     }
 
-    private void listProfesors() {
-        List<Profesor> profesors = getProfessorsOfType(ProfessorType.PROFESOR);
-        System.out.println("\t\tDecans:");
-        profesors.forEach(profesor -> System.out.println("\t\t" + profesor));
+    private void listProfessors() {
+        List<Profesor> professors = getProfessorsOfType(ProfessorType.PROFESOR);
+        System.out.println("\t\tProfessors:");
+        professors.forEach(professor -> System.out.println("\t\t" + professor));
     }
 
     private void listAssistents() {
-        List<Profesor> asistents = getProfessorsOfType(ProfessorType.ASISTENT);
-        System.out.println("\t\t\tDecans:");
-        asistents.forEach(asistent -> System.out.println("\t\t\t" + asistent));
+        List<Profesor> assistents = getProfessorsOfType(ProfessorType.ASISTENT);
+        System.out.println("\t\t\tAssistants:");
+        assistents.forEach(assistent -> System.out.println("\t\t\t" + assistent));
     }
 
     private List<Profesor> getProfessorsOfType(ProfessorType type) {
-        return university.getProfesors().stream()
+        return SECRETARIAT.getProfessors().stream()
                 .filter(profesor -> profesor.getType().equals(type))
                 .collect(Collectors.toList());
     }
