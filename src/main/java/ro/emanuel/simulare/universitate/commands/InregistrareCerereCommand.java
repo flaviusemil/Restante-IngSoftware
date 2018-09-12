@@ -2,6 +2,8 @@ package ro.emanuel.simulare.universitate.commands;
 
 import ro.emanuel.simulare.universitate.Request;
 import ro.emanuel.simulare.universitate.ConsoleCommand;
+import ro.emanuel.simulare.universitate.profesors.ProfesorProfesor;
+import ro.emanuel.simulare.universitate.utils.Profesor;
 
 import java.util.Scanner;
 
@@ -17,7 +19,7 @@ public class InregistrareCerereCommand extends ConsoleCommand {
     public void execute() {
         System.out.println("Introduceti mesajul cerererii:");
         String mesaj = in.nextLine();
-
-        Request request = new Request(mesaj);
+        Profesor profesor = new ProfesorProfesor("Vasile");
+        Request request = new Request(profesor, mesaj);
     }
 }

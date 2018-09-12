@@ -14,7 +14,7 @@ public class University {
 
     private University() {};
 
-    protected Secretariat secretariat;
+    protected Secretariat secretariat = new Secretariat();
     protected List<String> specializari;
     protected List<Profesor> profesors;
 

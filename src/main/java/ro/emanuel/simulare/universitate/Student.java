@@ -12,4 +12,9 @@ import lombok.Setter;
 public class Student {
 
     private String name;
+
+    @Override
+    public String toString() {
+        return name;
+    }
 }
