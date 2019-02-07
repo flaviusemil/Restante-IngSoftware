@@ -1,47 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa17a747-52b7-4061-acd8-b53deb86c00c" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/1/f114b0fad764e57bf8e98967b43fe1683b09f4d2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ApprovalResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ApprovalResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/ApprovalResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/ApprovalResponse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Console.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Console.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/RequestHandlerImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/RequestHandlerImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Secretariat.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/Secretariat.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/University.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/DecanProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/DecanProfesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/RectorProfesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/profesors/RectorProfesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Profesor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Profesor.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Strings.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ro/emanuel/simulare/universitate/utils/Strings.class" afterDir="false" />
+    <list default="true" id="25ea94ba-369d-4c32-969d-9251237a9a0c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Restante-IngSoftware.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/02d539ddc36085d3d6bc2cd6f13e602f3550eb00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/8/08b62e1b1d247513dba74cd7643d2822ecafe001" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a24fc930e9b7a4e7e4c69725d067fdff786caee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/1/2145c1865e1214d74367e1a664b1eb636153e8cb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/8/38b2b49bdc8144125c8a801d88cd7ec46b954f33" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3c742a51711db6eda7c49f326c5d17cfd04cf9a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/c/ace60e3e86be7c5657d5393a52db0fcb73de2fbb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/RestantaIngSoftware.iml" beforeDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,11 +23,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Console.java" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+            <state relative-caret-position="446">
+              <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,105 +35,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Strings.java" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+            <state relative-caret-position="204">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#533#534#0" expanded="true" />
+                <element signature="e#571#572#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Enum" />
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>nextInt</find>
-    </findStrings>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ProfessorType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Main.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Scanner.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ConsoleRead.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Cerere.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/RequestStatus.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproveResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ProfessorType.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApprover.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproverImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Profesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/Profesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/DecanProfesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/AsistentProfesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/ProfesorProfesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Profesor.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ApprovalResponse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/University.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java" />
-        <option value="$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java" />
-      </list>
-    </option>
-  </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
-  <component name="MavenProjectNavigator">
-    <treeState>
-      <expand>
-        <path>
-          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Restanta Ing Software" type="9519ce18:MavenProjectsStructure$ProjectNode" />
-        </path>
-      </expand>
-      <select />
-    </treeState>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1280" />
-    <option name="height" value="728" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -167,72 +68,20 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="universitate" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="universitate" type="462c0819:PsiDirectoryNode" />
-              <item name="utils" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="RestantaIngSoftware" type="b2602c69:ProjectViewProjectNode" />
-              <item name="RestantaIngSoftware" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="Restante-IngSoftware" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Restante-IngSoftware" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
-  </component>
-  <component name="PropertiesComponent">
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,65 +94,6 @@
         </RuleState>
       </list>
     </option>
-  </component>
-  <component name="RunManager">
-    <configuration name="Console" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ro.emanuel.simulare.universitate.Console" />
-      <module name="RestantaIngSoftware" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ro.emanuel.simulare.universitate.RequestHandlerImpl" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration default="true" type="JUnit" factoryName="JUnit">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
-    <configuration default="true" type="TestNG" factoryName="TestNG">
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="METHOD_NAME" />
-      <option name="GROUP_NAME" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="OUTPUT_DIRECTORY" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <option name="USE_DEFAULT_REPORTERS" value="false" />
-      <option name="PROPERTIES_FILE" />
-      <properties />
-      <listeners />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Console" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -318,294 +108,86 @@
       <workItem from="1536734069921" duration="6804000" />
       <workItem from="1536741117609" duration="15584000" />
       <workItem from="1536759922137" duration="5272000" />
+      <workItem from="1548435269387" duration="3341000" />
+      <workItem from="1549527974969" duration="1458000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27660000" />
+    <option name="totallyTimeSpent" value="2000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="728" extended-state="0" />
-    <editor active="true" />
+    <frame x="64" y="-4" width="1857" height="1085" extended-state="6" />
     <layout>
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32956383" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25925925" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3296355" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info id="Image Layers" order="2" />
-      <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.57052296" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3296355" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25767368" />
-      <window_info anchor="bottom" id="SonarLint" order="7" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296355" />
-      <window_info id="Learn" order="2" />
-      <window_info anchor="right" id="Theme Preview" order="3" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Learn" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3296355" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.25026178" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39895287" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.21630093" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="9" weight="0.32879582" />
+      <window_info anchor="bottom" id="SonarLint" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" visible="true" weight="0.3291536" />
+      <window_info anchor="bottom" id="Docker" order="13" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Graphical Navigator" internal_type="SLIDING" order="9" type="SLIDING" />
+      <window_info anchor="right" id="UML Diagrams" internal_type="SLIDING" order="10" type="SLIDING" />
     </layout>
     <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
-      <window_info anchor="right" id="Palette" order="3" />
       <window_info id="Image Layers" order="3" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="6" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info id="Learn" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3296355" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="9" weight="0.3296355" />
       <window_info anchor="bottom" id="SonarLint" order="10" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.32956383" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2536349" />
-      <window_info id="Learn" order="7" />
       <window_info anchor="right" id="Database" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39936608" />
     </layout-to-restore>
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <option name="time" value="11" />
-    </breakpoint-manager>
-  </component>
-  <component name="debuggerHistoryManager">
-    <expressions id="forceReturnValue">
-      <expression>
-        <expression-string>new ApprovalResponse(request.getMesaj())</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-    <expressions id="evaluateExpression">
-      <expression>
-        <expression-string>request.getProfesor().equals(name)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>request.getProfesor() == name</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>est.getProfesor() ==</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>name</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>request.getProfesor()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>next == null</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>university = University.getInstance()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>university</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>University.getInstance()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-    </expressions>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="41" column="75" selection-start-line="41" selection-start-column="75" selection-end-line="41" selection-end-column="75" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandlerImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" lean-forward="true" selection-start-line="29" selection-end-line="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2606#2607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="32" column="29" lean-forward="true" selection-start-line="32" selection-start-column="29" selection-end-line="32" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="86" selection-start-line="4" selection-start-column="86" selection-end-line="4" selection-end-column="86" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="46" lean-forward="true" selection-start-line="46" selection-end-line="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="61" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ProfessorType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="5" selection-start-line="2" selection-start-column="5" selection-end-line="2" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2606#2607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Request.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="8" lean-forward="true" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -615,20 +197,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/ConsoleRead.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApproverImpl.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/profesors/RectorProfesor.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -636,9 +208,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -646,9 +215,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,9 +222,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -667,15 +230,8 @@
         <state relative-caret-position="165">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApprover.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -684,7 +240,7 @@
         <state relative-caret-position="210">
           <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -696,41 +252,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Secretariat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ApprovalResponse.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#501#502#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="27" column="60" selection-start-line="27" selection-start-column="53" selection-end-line="27" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
           </folding>
         </state>
       </provider>
@@ -740,49 +267,8 @@
         <state relative-caret-position="374">
           <caret line="72" column="5" lean-forward="true" selection-start-line="72" selection-start-column="5" selection-end-line="72" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2581#2582#0" expanded="true" />
-            <element signature="e#2606#2607#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="121">
-          <caret line="21" column="80" selection-start-line="21" selection-start-column="80" selection-end-line="21" selection-end-column="80" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
-          <caret line="53" column="35" selection-start-line="53" selection-start-column="35" selection-end-line="53" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" />
+            <element signature="e#2581#2582#0" />
           </folding>
         </state>
       </provider>
@@ -792,7 +278,7 @@
         <state relative-caret-position="203">
           <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -811,110 +297,105 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareProfesoriCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="18" column="9" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InregistrareCerereCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="9" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InscriereStudentCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="19" column="23" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="23" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/AfisareSpecializariCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/InformatiiDespreStudentCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
+          <folding>
+            <element signature="imports" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/ConsoleCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/commands/TestCommand.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestApprover.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/RequestHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#533#534#0" expanded="true" />
+            <element signature="e#571#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/Console.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="57" column="4" lean-forward="true" selection-start-line="57" selection-start-column="4" selection-end-line="62" selection-end-column="5" />
+        <state relative-caret-position="446">
+          <caret line="43" column="42" selection-start-line="43" selection-start-column="42" selection-end-line="43" selection-end-column="42" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/ro/emanuel/simulare/universitate/utils/Strings.java">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        <state relative-caret-position="323">
+          <caret line="25" column="15" selection-start-line="25" selection-start-column="15" selection-end-line="25" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>RestantaIngSoftware</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <last-edited>Maven: org.projectlombok:lombok:1.16.22</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
   </component>
 </project>
